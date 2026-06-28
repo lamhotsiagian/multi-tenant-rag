@@ -1,5 +1,7 @@
 # Enterprise Multi-Tenant Knowledge Intelligence
 
+Subcriber: https://aiengineeringinsider.substack.com/subscribe
+
 ![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg?logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-FF4B4B.svg?logo=streamlit)
@@ -186,4 +188,3 @@ Once the backend is running, full interactive API documentation is available at 
 - **Database Errors**: `docker-compose logs postgres`
 - **Qdrant Connection**: Ensure vector DB is healthy with `curl http://localhost:6333/health`
 - **LLM Failures**: Check `.env` API keys and verify provider rate limits.
-# multi-tenant-rag
