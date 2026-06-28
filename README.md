@@ -1,6 +1,7 @@
 # Enterprise Multi-Tenant Knowledge Intelligence
 
-Subcriber: https://aiengineeringinsider.substack.com/subscribe
+Subcribe: https://aiengineeringinsider.substack.com/subscribe
+Website: http://aiengineeringinsider.com
 
 ![Python Version](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg?logo=fastapi)
